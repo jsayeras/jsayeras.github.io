@@ -1,3 +1,9 @@
+---
+title: "Ghidra"
+date: 2023-07-02T15:38:39+02:00
+draft: true
+---
+
 ### [Ghidra snippets](https://github.com/HackOvert/GhidraSnippets)
 
 ### Search instruction patterns like in YARA

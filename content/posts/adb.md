@@ -1,4 +1,8 @@
-
+---
+title: "ADB commands"
+date: 2023-07-02T15:38:39+02:00
+draft: true
+---
 ### Get developer settings
 
 ```

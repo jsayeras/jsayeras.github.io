@@ -4,13 +4,13 @@ layout: default
 
 ## Mobile 
 
-### [Frida](./frida.html)
+### [Frida](./frida)
 
-### [GDB](./gdb.html)
+### [GDB](./gdb)
 
-### [Ghidra](./ghidra.html)
+### [Ghidra](./ghidra)
 
-### [ADB](./adb.html)
+### [ADB](./adb)
 
 ### Android
 * Since Android 7.0 (API level 24), PIC compilation is enabled by default for the main executables.

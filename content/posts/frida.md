@@ -1,8 +1,8 @@
 ---
-layout: default
+title: "Frida"
+date: 2023-07-02T15:38:39+02:00
+draft: true
 ---
-
-# Frida 
 
 [Frida](https://frida.re/) is a dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. There are common techniques used to [detect Frida](https://github.com/darvincisec/DetectFrida)
 * Detect through named pipes used by Frida
