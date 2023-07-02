@@ -14,9 +14,9 @@ theme = "myblog"
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    name = "Receipts"
-    pre = "receipts"
-    url = "/recepts/"
+    name = "Recipes"
+    pre = "recipes"
+    url = "/recipes/"
     weight = 3
   [[menu.main]]
     name = "About"
